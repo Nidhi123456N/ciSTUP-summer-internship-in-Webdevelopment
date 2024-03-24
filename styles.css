@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+#upload-section {
+    margin-bottom: 20px;
+}
+
+#image-display {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#image-display div {
+    margin-bottom: 20px;
+}
